@@ -1,4 +1,5 @@
-# demo_app
+# First Kick App
+Check out the master branch!
 
 A new Flutter project.
 
