@@ -1,17 +1,14 @@
 # First Kick App
-Check out the master branch!
+Check out the master branch for files!
 
 A new Flutter project.
 
-## Getting Started
+## About FirstKick
 
-This project is a starting point for a Flutter application.
+Hello There! This is a full comprehensive pregnancy app intended to support expecting parents throughout, with integration of lot of advanced features.
 
-A few resources to get you started if this is your first Flutter project:
+And this is still in development, here you can check out our attractive UI and interact with it, play around with widgets! The repository is constantly updated the full application will be available soon, Apologies for that one.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+If you want to know what are the features we are planning on, here's a sneak-peak🤫.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" alt="Sign in-pdf" src="https://user-images.githubusercontent.com/71513343/135491474-7888e4db-b7d4-4158-a507-528098f529dd.png"> <img width="300" alt="Features-pdf" src="https://user-images.githubusercontent.com/71513343/135491761-fda28553-9a0a-434a-8064-d91cb72fa5ec.png">
