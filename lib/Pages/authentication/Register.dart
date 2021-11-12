@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:demo_app/Pages/home/home.dart';
 
 class SignupPage extends StatelessWidget {
   @override
@@ -96,7 +97,10 @@ class SignupPage extends StatelessWidget {
                 child: MaterialButton(
                   minWidth: double.infinity,
                   height: 60,
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.push(context,
+                        MaterialPageRoute(builder: (context) => Home()));
+                  },
                   color: Color(0xffffb3ff),
                   elevation: 0,
                   shape: RoundedRectangleBorder(
