@@ -63,6 +63,8 @@ flutter:
   assets:
      - Image/First_Kick-Logo.png
      - Image/playstore.png
+     - Image/first_kick_images-removebg-preview.png
+     - Image/baby-on-hand.png
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
@@ -89,6 +91,9 @@ flutter:
      - family: Sand
        fonts:
          - asset: fonts/Quicksand-VariableFont_wght.ttf
+     - family: Cookie
+       fonts:
+         - asset: fonts/Cookie-Regular.ttf
 
   #
   # For details regarding fonts from package dependencies,
